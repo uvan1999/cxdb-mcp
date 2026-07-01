@@ -32,7 +32,7 @@ Claude handles the SQL, runs it safely in a **read-only transaction**, and retur
 
 - [Node.js](https://nodejs.org/) v18 or higher
 - [Claude Code](https://claude.ai/code) (CLI or desktop app)
-- Database credentials for `cxdb` — ask your team lead
+- Database credentials for `cxdb` — ask devops team
 
 ---
 
